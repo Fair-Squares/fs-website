@@ -1,7 +1,3 @@
----
-layout: page
-title: Home
----
 
 ## Welcome to Fair Squares Page
 
