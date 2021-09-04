@@ -4,5 +4,12 @@
 
 layout: home
 ---
+<p class="aligncenter">
+    <img src="assets/FS-logo.png" alt="centered image"  width="150" />
+</p>
 
-Welcome to the home of FS
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
