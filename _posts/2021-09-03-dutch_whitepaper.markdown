@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fair Squares whitepaper"
+title:  "Fair Squares whitepaper (Dutch)"
 date:   2021-09-04 22:00:00 +0200
 categories: lightpaper Fair Squares
 ---

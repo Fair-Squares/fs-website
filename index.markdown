@@ -5,7 +5,7 @@
 layout: home
 ---
 <p class="aligncenter">
-    <img src="assets/FS-logo.png" alt="centered image"  width="150" />
+    <img src="assets/FS_Dark.png" alt="centered image"  width="290" />
 </p>
 
 <style>
