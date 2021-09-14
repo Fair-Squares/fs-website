@@ -7,4 +7,6 @@ categories: lightpaper Fair Squares
 
 
 
-<embed src="/fair_squares_lightpaper_NL.pdf" width="1000" height="1000" type="application/pdf"/>
+<iframe src="https://drive.google.com/file/d/1dJU0Rx3EMZc66NL84HlT92EF9SmIlRNG/preview" width="940" height="690" allow="autoplay"></iframe>
+
+
