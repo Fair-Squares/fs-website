@@ -6,5 +6,5 @@ categories: lightpaper Fair Squares
 ---
 
 
-<object data="/fair_squares_lightpaper_NL.pdf" width="1000" height="1000" type="application/pdf"></object>
 
+<embed src="/fair_squares_lightpaper_NL.pdf" width="1000" height="1000" type="application/pdf"/>
