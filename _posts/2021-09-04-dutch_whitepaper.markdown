@@ -7,6 +7,6 @@ categories: lightpaper Fair Squares
 
 
 
-<iframe src="https://drive.google.com/file/d/1dJU0Rx3EMZc66NL84HlT92EF9SmIlRNG/preview" width="940" height="690" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1dJU0Rx3EMZc66NL84HlT92EF9SmIlRNG/preview" width="950" height="850" allow="autoplay"></iframe>
 
 
